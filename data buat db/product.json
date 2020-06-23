@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "5ebb97c1987842244cab07c7"
+  },
+  "product_name": "Intel Pentium Gold G5420",
+  "product_price": 847000,
+  "product_type": "cpu",
+  "chipset": "H310",
+  "url_product": "https://ark.intel.com/content/www/us/en/ark/products/135456/intel-pentium-gold-g5420-processor-4m-cache-3-80-ghz.html",
+  "path_image": "IntelPentiumGoldG5420.jpg"
+},{
+  "_id": {
+    "$oid": "5ebb97f1987842244cab07c8"
+  },
+  "product_name": "AMD A6-7480",
+  "product_price": 480000,
+  "product_type": "cpu",
+  "chipset": "A68",
+  "url_product": "https://www.amd.com/en/processors/athlon-and-a-series",
+  "path_image": "A6-7480.jpg"
+},{
+  "_id": {
+    "$oid": "5ebb9828987842244cab07c9"
+  },
+  "product_name": "AMD Athlon 3000G",
+  "product_price": 837000,
+  "product_type": "cpu",
+  "chipset": "A320",
+  "url_product": "https://www.amd.com/en/products/apu/amd-athlon-3000g",
+  "path_image": "AMDAthlon-200GE&3000G.png"
+},{
+  "_id": {
+    "$oid": "5ebe089a5b96f031c86cb800"
+  },
+  "product_name": "MAXSUN MS-A88FE Turbo M.2",
+  "product_price": 580000,
+  "product_type": "motherboard",
+  "chipset": "A88",
+  "memory": "DDR3",
+  "url_product": "http://www.maxsun.com.cn/2017/0918/4828.html",
+  "path_image": "MS-A88FETurboM2.jpg"
+},{
+  "_id": {
+    "$oid": "5ebe089a5b96f031c86cb801"
+  },
+  "product_name": "Colorful C.A68M-P Plus V16",
+  "product_price": 570000,
+  "product_type": "motherboard",
+  "chipset": "A68",
+  "memory": "DDR3",
+  "url_product": "https://en.colorful.cn/product_show.aspx?mid=84&id=856",
+  "path_image": "ColorfulCA68M-PPlusV16.jpg"
+},{
+  "_id": {
+    "$oid": "5ebe089a5b96f031c86cb802"
+  },
+  "product_name": "Galax A320M",
+  "product_price": 670000,
+  "product_type": "motherboard",
+  "chipset": "A320",
+  "memory": "DDR4",
+  "url_product": "https://www.galax.com/en/motherboard/mb-amd/a320m-motherboard.html",
+  "path_image": "GalaxA320M.jpg"
+},{
+  "_id": {
+    "$oid": "5ebe089a5b96f031c86cb803"
+  },
+  "product_name": "Galax H310M",
+  "product_price": 750000,
+  "product_type": "motherboard",
+  "chipset": "H310",
+  "memory": "DDR4",
+  "url_product": "https://www.galax.com/en/motherboard/mb-intel/h310m-motherboard.html",
+  "path_image": "GalaxH310M.jpg"
+},{
+  "_id": {
+    "$oid": "5ed7147e6863c34af4925151"
+  },
+  "product_name": "VenomRX DDR3 PC12800 2GB",
+  "product_price": 169000,
+  "product_type": "ram",
+  "memory": "DDR3",
+  "memory_capacity": "2GB",
+  "url_product": "https://venomrxs.com/memory-module/ddr3-lodimm/",
+  "path_image": "venomrxddr3.jpg"
+},{
+  "_id": {
+    "$oid": "5ed7147e6863c34af4925152"
+  },
+  "product_name": "Kingston DDR3 PC12800 4GB",
+  "product_price": 262000,
+  "product_type": "ram",
+  "memory": "DDR3",
+  "memory_capacity": "4GB",
+  "url_product": "https://www.kingston.com/en/memory?memorytype=Memory%20for%20Servers,%20Desktops,%20and%20Laptops",
+  "path_image": "kingstonddr3.jpg"
+},{
+  "_id": {
+    "$oid": "5ed7147e6863c34af4925153"
+  },
+  "product_name": "Visipro DDR3 PC12800 8GB",
+  "product_price": 535000,
+  "product_type": "ram",
+  "memory": "DDR3",
+  "memory_capacity": "8GB",
+  "url_product": "http://www.visipro.com/longdimm/",
+  "path_image": "visiproddr3-8gb.png"
+},{
+  "_id": {
+    "$oid": "5ed7147e6863c34af4925154"
+  },
+  "product_name": "Visipro DDR4 PC19200 4GB",
+  "product_price": 285000,
+  "product_type": "ram",
+  "memory": "DDR4",
+  "memory_capacity": "4GB",
+  "url_product": "http://www.visipro.com/longdimm/",
+  "path_image": "visiproddr4-4gb.png"
+},{
+  "_id": {
+    "$oid": "5ed7147e6863c34af4925155"
+  },
+  "product_name": "Visipro DDR4 PC19200 8GB",
+  "product_price": 485000,
+  "product_type": "ram",
+  "memory": "DDR4",
+  "memory_capacity": "8GB",
+  "url_product": "http://www.visipro.com/longdimm/",
+  "path_image": "visiproddr4-8gb.png"
+},{
+  "_id": {
+    "$oid": "5ebb96d2987842244cab07c4"
+  },
+  "product_name": "AMD A8-7680",
+  "product_price": 698000,
+  "product_type": "cpu",
+  "chipset": "A88",
+  "url_product": "https://www.amd.com/en/processors/athlon-and-a-series",
+  "path_image": "A8-7680.jpg"
+},{
+  "_id": {
+    "$oid": "5ebb9706987842244cab07c5"
+  },
+  "product_name": "AMD Athlon 200GE",
+  "product_price": 753000,
+  "product_type": "cpu",
+  "chipset": "A320",
+  "url_product": "https://www.amd.com/en/products/apu/amd-athlon-200ge",
+  "path_image": "AMDAthlon-200GE&3000G.png"
+},{
+  "_id": {
+    "$oid": "5ebb97a4987842244cab07c6"
+  },
+  "product_name": "Intel Pentium Gold G5400",
+  "product_price": 807000,
+  "product_type": "cpu",
+  "chipset": "H310",
+  "url_product": "https://ark.intel.com/content/www/us/en/ark/products/129951/intel-pentium-gold-g5400-processor-4m-cache-3-70-ghz.html",
+  "path_image": "IntelPentiumGoldG5400.jpg"
+}]
